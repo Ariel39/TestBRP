@@ -1,0 +1,6 @@
+- Install PHP and Bun ( Not tested with node.js ) and setup them
+- Change URL in send_discord.php by the new url
+- In the root folder of the js, you need to have the provided public folder
+
+PS 1: You can put permanent custom pictures if you put your picture in the public/upload folder
+	AND you edit the list in index.ts
